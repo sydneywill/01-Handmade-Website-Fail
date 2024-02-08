@@ -1,3 +1,3 @@
-# Project 03 Handmade Website
+# Project 01 Handmade Website
 
 by Sydney Grace Williams
